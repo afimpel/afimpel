@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvaro Fimpel</h1>
-<h3 align="center">Software Engineer: Node.js. MongoDB, React.js, Express.js, ES6/7, PHP7/8, denoJS, Docker DevOps: Docker, Kubernetes, Terraform, Portainer</h3>
+<h3 align="center">Software Engineer: Node.js. MongoDB, React.js, Express.js, ES6/7, PHP7/8, denoJS, Docker</h3>
+<h3 align="center">DevOps: Docker, Kubernetes, Terraform, Portainer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afimpel&label=Profile%20views&color=0e75b6&style=flat" alt="afimpel" /> </p>
 
