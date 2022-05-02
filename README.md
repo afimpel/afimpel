@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/afimpel" target="blank"><img src="https://img.shields.io/twitter/follow/afimpel?logo=twitter&style=for-the-badge" alt="afimpel" /></a> </p>
 
-- 🔭 I’m currently working on **Via Bariloche SA**
-
 - 👯 I’m looking to collaborate on **#linux #debian, #docker y Coding #php / #nodejs / #react / #raspberryPI**
 
 - 📄 Know about my experiences [https://afimpel.github.io](https://afimpel.github.io)
