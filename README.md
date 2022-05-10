@@ -2,9 +2,8 @@
 <h3 align="center">Software Engineer: Node.js. MongoDB, React.js, Express.js, ES6/7, PHP7/8, denoJS, Docker</h3>
 <h3 align="center">DevOps: Docker, Kubernetes, Terraform, Portainer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afimpel&label=Profile%20views&color=0e75b6&style=flat" title="afimpel" /> </p>
-
-<p align="left"> <a href="https://twitter.com/afimpel" target="blank"><img src="https://img.shields.io/twitter/follow/afimpel?logo=twitter&style=for-the-badge" title="afimpel" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afimpel&label=Profile%20views&color=0e75b6&style=flat" title="afimpel" />
+<a href="https://twitter.com/afimpel" target="blank"><img src="https://img.shields.io/twitter/follow/afimpel?logo=twitter&style=for-the-badge" title="afimpel" /></a> </p>
 
 - 👯 I’m looking to collaborate on **#linux #debian, #alpine, #docker y Coding #php / #nodejs / #react / #raspberryPI**
 
