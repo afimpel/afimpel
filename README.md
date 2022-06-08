@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afimpel&label=Profile%20views&color=0e75b6&style=flat" title="afimpel" />
 <a href="https://twitter.com/afimpel" target="blank"><img src="https://img.shields.io/twitter/follow/afimpel?logo=twitter&style=for-the-badge" title="afimpel" /></a> </p>
 
+- 😄 Pronouns: afimpel / godox
+- 🔭 I’m currently working on BigTree Studio
 - 👯 I’m looking to collaborate on **#linux #debian, #alpine, #docker y Coding #php / #nodejs / #react / #raspberryPI**
 
 - 📄 Know about my experiences [https://afimpel.github.io](https://afimpel.github.io)
