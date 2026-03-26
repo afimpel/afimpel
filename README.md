@@ -6,7 +6,7 @@
 <a href="https://twitter.com/afimpel" target="blank"><img src="https://img.shields.io/twitter/follow/afimpel?logo=twitter&style=for-the-badge" title="afimpel" /></a> </p>
 
 - 😄 Pronouns: afimpel / godox
-- 🔭 I’m currently working on Quikipay & afimpel.com
+- 🔭 I’m currently working on doesnt.works & afimpel.com
 - 👯 I’m looking to collaborate on **#linux #debian, #alpine, #docker y Coding #php / #nodejs / #react / #raspberryPI**
 
 - 📄 Know about my experiences [https://afimpel.github.io](https://afimpel.github.io)
